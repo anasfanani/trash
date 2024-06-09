@@ -1,2 +1,2 @@
-# rooting-android
-Some tutorial rooting android
+# trash
+Trash repository for placing any files / project but not a great project idea.
